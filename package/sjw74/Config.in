@@ -1,0 +1,5 @@
+config BR2_PACKAGE_SJW74
+bool "sjw74"
+help
+  This is sjw74.
+

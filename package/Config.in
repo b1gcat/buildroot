@@ -2749,4 +2749,8 @@ menu "Text editors and viewers"
 	source "package/vim/Config.in"
 endmenu
 
+menu "sjw74"
+    source "package/sjw74/Config.in"
+endmenu
+
 endmenu
